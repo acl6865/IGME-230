@@ -1,5 +1,7 @@
 <h2>Concept</h2>
+
 ___
+
 Point and click combat game where you take turns on offence and defence.
 While on offence, click an enemy's weak points to deal damage. While on defence, click an enemy's attack to block them.
 
@@ -12,3 +14,13 @@ Types of enemies:
 * Fast Enemy
 
    Moves around the screen, trying to dodge the cursor. Clicking anywhere on the enemy deals damage.
+
+___
+
+[Link to Homepage]()
+[Link to Documents]()
+[Link to Project]()
+
+___
+
+[Link to My 230 Page]()
