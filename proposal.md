@@ -23,4 +23,4 @@ ___
 
 ___
 
-[Link to My 230 Page]()
+[Link to My 230 Page](https://people.rit.edu/~acl6865/230/)
