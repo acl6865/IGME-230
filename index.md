@@ -10,4 +10,4 @@ ___
 [Link to Project]()
 ___
 
-[Link to my 230 Main Page]()
+[Link to my 230 Main Page](https://people.rit.edu/~acl6865/230/)
