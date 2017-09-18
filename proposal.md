@@ -6,6 +6,7 @@ Point and click combat game where you take turns on offence and defence.
 While on offence, click an enemy's weak points to deal damage. While on defence, click an enemy's attack to block them.
 
 The screen will be split into a grid (for simplicity, a 3x3 grid). Enemies will fill most of the grid. Selecting a square that houses an enemy deals damage. Clicking on a square without an enemy or that has an enemy's defence icon will result in the attack missing or being blocked.
+While combat may not always be 1v1 (PvE), every atack between offence and defence will house only the player and exactly one enemy.
 
 Types of enemies:
 
